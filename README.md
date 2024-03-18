@@ -70,4 +70,8 @@
 - **Atualizar Status de Entrega**
   - Eu, como sistema de logística, desejo atualizar o status de entrega para manter os clientes informados sobre o progresso da entrega.
 
+# Diagrama de Caso de Uso
 
+Link: https://drive.google.com/file/d/1fJOUxwT4j7GmnPCOhFQD1NL3UOPvYdWQ/view?usp=sharing
+
+![Logo Exemplo](imagens/CLASH_DIAGRAMA_DE_CASO_DE_USO.drawio.png)
