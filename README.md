@@ -1,6 +1,6 @@
-# Clash
+# Clash - E-commerce de Persianas
 
-# Casos de Uso do Sistema de E-commerce de Persianas
+# Casos de Uso do Sistema
 
 ## Atores
 - **Cliente**
