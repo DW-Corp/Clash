@@ -74,4 +74,4 @@
 
 Link: https://drive.google.com/file/d/1fJOUxwT4j7GmnPCOhFQD1NL3UOPvYdWQ/view?usp=sharing
 
-![Logo Exemplo](imagens/CLASH_DIAGRAMA_DE_CASO_DE_USO.png)
+![Logo Exemplo](images/CLASH_DIAGRAMA_DE_CASO_DE_USO.png)
